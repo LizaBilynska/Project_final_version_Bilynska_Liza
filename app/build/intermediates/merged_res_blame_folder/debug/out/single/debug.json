@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-merged_res-47:\\drawable_category_of_wsn_selector.xml.flat",
+        "source": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-main-49:\\drawable\\category_of_wsn_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-merged_res-47:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-main-49:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-merged_res-47:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-main-49:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-merged_res-47:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-main-49:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-merged_res-47:\\anim_to_right.xml.flat",
+        "source": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-main-49:\\anim\\to_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-merged_res-47:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-main-49:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-merged_res-47:\\anim_to_left.xml.flat",
+        "source": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-main-49:\\anim\\to_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-merged_res-47:\\layout_item_news.xml.flat",
+        "source": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-main-49:\\layout\\item_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-merged_res-47:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-main-49:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.bilynska_liza_final_version_project.app-merged_res-47:/layout_fragment_wsn.xml.flat",
+        "source": "com.example.bilynska_liza_final_version_project.app-main-49:/layout/fragment_wsn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-merged_res-47:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-main-49:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-merged_res-47:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-main-49:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-merged_res-47:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-main-49:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-merged_res-47:\\drawable_wsn_article_selector.xml.flat",
+        "source": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-main-49:\\drawable\\wsn_article_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-merged_res-47:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-main-49:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-merged_res-47:\\anim_from_left.xml.flat",
+        "source": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-main-49:\\anim\\from_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-merged_res-47:\\drawable_wsn_background.xml.flat",
+        "source": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-main-49:\\drawable\\wsn_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-merged_res-47:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-main-49:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-merged_res-47:\\layout_fragment_wsn_page.xml.flat",
+        "source": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-main-49:\\layout\\fragment_wsn_page.xml"
+    },
+    {
+        "merged": "com.example.bilynska_liza_final_version_project.app-merged_res-47:/layout_item_news.xml.flat",
+        "source": "com.example.bilynska_liza_final_version_project.app-main-49:/layout/item_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-merged_res-47:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-main-49:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-merged_res-47:\\drawable-v24_wsn_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-main-49:\\drawable-v24\\wsn_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-merged_res-47:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-main-49:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-merged_res-47:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-main-49:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-merged_res-47:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-main-49:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-merged_res-47:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-main-49:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-merged_res-47:\\layout_fragment_wsn.xml.flat",
+        "source": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-main-49:\\layout\\fragment_wsn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-merged_res-47:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-main-49:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-merged_res-47:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-main-49:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-merged_res-47:\\layout_wsn_item_category.xml.flat",
+        "source": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-main-49:\\layout\\wsn_item_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-merged_res-47:\\anim_from_right.xml.flat",
+        "source": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-main-49:\\anim\\from_right.xml"
+    }
+]

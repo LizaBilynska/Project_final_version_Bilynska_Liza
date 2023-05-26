@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/fragment_WallStreetNews">
+    <fragment
+        android:id="@+id/fragment_WallStreetNews"
+        android:name="com.example.bilynska_liza_final_version_project.UI.fragments.WSNlist.Fragment_WallStreetNews"
+        android:label="Fragment_WallStreetNews"
+        tools:layout="@layout/fragment_wsn">
+        <action
+            android:id="@+id/action_fragment_WallStreetNews_to_newsPageFragment"
+            app:destination="@id/newsPageFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/newsPageFragment"
+        android:name="com.example.bilynska_liza_final_version_project.UI.fragments.WSNspage.Fragment_WSN_Page"
+        android:label="NewsPageFragment"
+        tools:layout="@layout/fragment_wsn_page">
+        <argument
+        android:name="wsn_news"
+        app:argType="com.example.bilynska_liza_final_version_project.data.models.WSN" />
+    </fragment>
+
+</navigation>

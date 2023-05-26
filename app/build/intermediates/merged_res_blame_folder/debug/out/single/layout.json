@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.example.bilynska_liza_final_version_project.app-mergeDebugResources-46:/layout/item_news.xml",
+        "source": "com.example.bilynska_liza_final_version_project.app-main-49:/layout/item_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-mergeDebugResources-46:\\layout\\fragment_wsn_page.xml",
+        "source": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-main-49:\\layout\\fragment_wsn_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-mergeDebugResources-46:\\layout\\item_news.xml",
+        "source": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-main-49:\\layout\\item_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-mergeDebugResources-46:\\layout\\fragment_wsn.xml",
+        "source": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-main-49:\\layout\\fragment_wsn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-mergeDebugResources-46:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-main-49:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.bilynska_liza_final_version_project.app-mergeDebugResources-46:/layout/fragment_wsn.xml",
+        "source": "com.example.bilynska_liza_final_version_project.app-main-49:/layout/fragment_wsn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-mergeDebugResources-46:\\layout\\wsn_item_category.xml",
+        "source": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-main-49:\\layout\\wsn_item_category.xml"
+    }
+]
