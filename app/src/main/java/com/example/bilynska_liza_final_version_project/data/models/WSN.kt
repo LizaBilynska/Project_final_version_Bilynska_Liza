@@ -5,13 +5,13 @@ import kotlinx.android.parcel.Parcelize
 
 @Parcelize
 data class WSN(
-    val author_of_the_article: String,
-    val content_of_the_article: String,
-    val date: String,
-    val imageUrl: String,
-    val readmore: String,
-    val time: String,
-    val title_of_the_article: String,
-    val url: String
+    val author_of_the_article: String?,
+    val content_of_the_article: String?,
+    val date: String?,
+    val imageUrl: String?,
+    val readmore: String?,
+    val time: String?,
+    val title_of_the_article: String?,
+    val url: String?
 ): Parcelable
 

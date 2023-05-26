@@ -20,24 +20,20 @@
         "source": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-main-49:\\anim\\to_right.xml"
     },
     {
-        "merged": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-merged_res-47:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-main-49:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
-    },
-    {
         "merged": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-merged_res-47:\\anim_to_left.xml.flat",
         "source": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-main-49:\\anim\\to_left.xml"
     },
     {
-        "merged": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-merged_res-47:\\layout_item_news.xml.flat",
-        "source": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-main-49:\\layout\\item_news.xml"
+        "merged": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-merged_res-47:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-main-49:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
         "merged": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-merged_res-47:\\layout_activity_main.xml.flat",
         "source": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-main-49:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.example.bilynska_liza_final_version_project.app-merged_res-47:/layout_fragment_wsn.xml.flat",
-        "source": "com.example.bilynska_liza_final_version_project.app-main-49:/layout/fragment_wsn.xml"
+        "merged": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-merged_res-47:\\layout_item_news.xml.flat",
+        "source": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-main-49:\\layout\\item_news.xml"
     },
     {
         "merged": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-merged_res-47:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
@@ -64,6 +60,10 @@
         "source": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-main-49:\\anim\\from_left.xml"
     },
     {
+        "merged": "com.example.bilynska_liza_final_version_project.app-merged_res-47:/navigation_nav_graph.xml.flat",
+        "source": "com.example.bilynska_liza_final_version_project.app-main-49:/navigation/nav_graph.xml"
+    },
+    {
         "merged": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-merged_res-47:\\drawable_wsn_background.xml.flat",
         "source": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-main-49:\\drawable\\wsn_background.xml"
     },
@@ -74,10 +74,6 @@
     {
         "merged": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-merged_res-47:\\layout_fragment_wsn_page.xml.flat",
         "source": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-main-49:\\layout\\fragment_wsn_page.xml"
-    },
-    {
-        "merged": "com.example.bilynska_liza_final_version_project.app-merged_res-47:/layout_item_news.xml.flat",
-        "source": "com.example.bilynska_liza_final_version_project.app-main-49:/layout/item_news.xml"
     },
     {
         "merged": "C:\\Users\\Єлизавета\\.gradle\\daemon\\7.5\\com.example.bilynska_liza_final_version_project.app-merged_res-47:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
